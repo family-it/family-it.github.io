@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## 親子二世代ファミリーIT勉強会「ファミT」
 
-You can use the [editor on GitHub](https://github.com/family-it/family-it.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+IT環境をうまく扱えるように、親と子で考える会です。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ここで何をしたいかというと、
 
-### Markdown
++ 親として子供のIT環境の整備、またある程度の自由度をもたせながらも危険に晒さない仕組みを考え、実装する
++ 親としていつか自分が先に死ぬことを想定し、既存の仕組みをある程度は継承出来る仕組みを考え、実装する です。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+話し合いたいこととしては
 
-```markdown
-Syntax highlighted code block
++ 子供のタブレット等を渡した時に、どうやって制限をかけつつも自由度を持たせられるか
++ 子供のアカウント管理はどのように行うか
++ 子供のIT環境の使い方をどうやって監視し、また見過ごすか。
++ IT環境にどうやってスムーズに入っていくのか、また付き合い方、サバイバル方法
++ 自分が死んだ時にどのように情報資産を受け継がせるか
+なのです。 ここでは最近流行りの子供にプログラミングを覚えさせよう！！という事はしません。
 
-# Header 1
-## Header 2
-### Header 3
+子供を親よりもIT環境に慣れるように、今から浮き輪をつけて水遊びをさせつつも、いつかは手元を離れて自分で泳いでいけるように親子ともに一緒に考えて行きたいと思います。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/family-it/family-it.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+もしご興味ある場合はお立ち寄りください。
