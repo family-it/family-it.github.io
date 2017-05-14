@@ -105,7 +105,7 @@
 
 ## Windows tablet
 ### 値段
-- [最新の Windows PC、ノート PC、タブレット、デスクトップ PC、オールインワン PC、およびスマートフォンの購入 | Microsoft Windows 10](https://www.microsoft.com/ja-jp/windows/view-all)
+- [最新の Windows PC、ノート PC、タブレット、デスクトップ PC、オールインワン PC、およびスマートフォンの購入  Microsoft Windows 10](https://www.microsoft.com/ja-jp/windows/view-all)
 - [【2017年版】オススメのSIMフリーwindowsタブレット（LTE対応）まとめ](https://www.simfree-life.jp/%e3%80%902016%e5%b9%b4%e7%89%88%e3%80%91%e3%82%aa%e3%82%b9%e3%82%b9%e3%83%a1%e3%81%aesim%e3%83%95%e3%83%aa%e3%83%bcwindows%e3%82%bf%e3%83%96%e3%83%ac%e3%83%83%e3%83%88%ef%bc%88lte%e5%af%be%e5%bf%9c/)
 - ノートブックの延長線上にあるように思われ、基本高い。15万程度する。小学生というより、高校生、大学生に宿題などをさせるために与えたい機能と値段である
 
@@ -157,12 +157,12 @@
 
 ### 参考リンク
 - [任天堂から保護者のみなさまへ、大切なお願いです。 Nintendo](https://www.nintendo.co.jp/parents/3ds-wiiu/index.html)
-- [ニンテンドーキッズスペース  ARカードからキャラクターが飛び出すのはどうして？ | 任天堂](https://www.nintendo.co.jp/kids/160713/ar/)
+- [ニンテンドーキッズスペース  ARカードからキャラクターが飛び出すのはどうして？  任天堂](https://www.nintendo.co.jp/kids/160713/ar/)
 
 
 ## SONY PlayStation Vita
 ### 値段
-- [PlayStation Vita  プレイステーション](http://www.jp.playstation.com/psvita/) 
+- [PlayStation Vita  プレイステーション](http://www.jp.playstation.com/psvita/)
 - 買う場所によるが大体2万程
 ### アカウント
 - Sony Entertainment Network（SEN）アカウント
@@ -199,7 +199,7 @@
 
 # 参考リンク
 - [意外と知らない"学校での1人1台のタブレット活用" - 教育ウォッチ 学びの場.com ](https://www.manabinoba.com/edu_watch/23159.html)
-- [「AI」は声でセクハラを助長する？ 「女性秘書はロボットだから」に潜む人間の危険性 | FUZE](https://www.fuze.dj/2017/03/ai_sexual_harassment.html)
+- [「AI」は声でセクハラを助長する？ 「女性秘書はロボットだから」に潜む人間の危険性  FUZE](https://www.fuze.dj/2017/03/ai_sexual_harassment.html)
 
 # イベント後の福岡観光
 - [紅葉八幡宮  福岡県福岡市早良区の西新の紅葉で有名な紅葉八幡宮](http://momijihachimangu.or.jp/)
