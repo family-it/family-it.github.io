@@ -27,6 +27,7 @@
 
 
 ## Apple iPad
+
 ### 値段
 - [iPad - Apple（日本） ](https://www.apple.com/jp/ipad/)
 - 最低でも4万ほどする。高い
@@ -61,6 +62,7 @@
 - N/A
 
 ## Amazon Kindle Fire
+
 ### 値段
 - [Fireタブレット - Amazonのエンターテインメントを最大限に楽しむ](https://www.amazon.co.jp/dp/B00Y3TMKKM)
 - スペックを考えなければクーポンを使えば4000円ほどで買える（2017/5/14時点）。
@@ -85,6 +87,7 @@
 
 
 ## Google Androidベースの端末
+
 ### 値段
 - [Android タブレット 仕事でも遊びでも](https://www.android.com/intl/ja_jp/tablets/)
 - キャリアが積極的に販売をしているので4〜8万程度だが分割支払いや二年縛りで割引が効くようになっている。
@@ -104,6 +107,7 @@
 - 安いからといって台数を入れてもカメラぐらいしか使わなかった（某小学校の事例
 
 ## Windows tablet
+
 ### 値段
 - [最新の Windows PC、ノート PC、タブレット、デスクトップ PC、オールインワン PC、およびスマートフォンの購入  Microsoft Windows 10](https://www.microsoft.com/ja-jp/windows/view-all)
 - [【2017年版】オススメのSIMフリーwindowsタブレット（LTE対応）まとめ](https://www.simfree-life.jp/%e3%80%902016%e5%b9%b4%e7%89%88%e3%80%91%e3%82%aa%e3%82%b9%e3%82%b9%e3%83%a1%e3%81%aesim%e3%83%95%e3%83%aa%e3%83%bcwindows%e3%82%bf%e3%83%96%e3%83%ac%e3%83%83%e3%83%88%ef%bc%88lte%e5%af%be%e5%bf%9c/)
@@ -122,6 +126,7 @@
 
 ### 参考事例
 - N/A
+
 ### 参加者コメント
 - 勉強用だと良いのではないか（学年が上がったときに有用）
   - 大学で配布している事例がある [畿央大学 - マイクロソフト導入事例 - Microsoft for Business](https://www.microsoft.com/ja-jp/casestudies/kio.aspx)
@@ -131,10 +136,12 @@
 - N/A
 
 ## 任天堂 3DS
+
 ### 値段
 - [Newニンテンドー3DS Nintendo](https://www.nintendo.co.jp/hardware/new3ds/index.html)
 - ラインアップにもよるが大体1万5千程度
   - もう任天堂DSは生産終了をしていた（現在は3DS, 2DSなどの名称）
+
 ### アカウント
 - ニンテンドーネットワークIDを取得すればゲームのダウンロードが可能
   - [ニンテンドーネットワークIDの登録方法（ニンテンドー3DS）｜サポート情報 Nintendo](https://www.nintendo.co.jp/support/nintendo_network/account/3ds.html)
@@ -161,9 +168,11 @@
 
 
 ## SONY PlayStation Vita
+
 ### 値段
 - [PlayStation Vita  プレイステーション](http://www.jp.playstation.com/psvita/)
 - 買う場所によるが大体2万程
+
 ### アカウント
 - Sony Entertainment Network（SEN）アカウント
   - [SEN アカウントの種類と作成方法  PlayStation.com](https://support.jp.playstation.com/app/answers/detail/a_id/473/~/sen-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AE%E7%A8%AE%E9%A1%9E%E3%81%A8%E4%BD%9C%E6%88%90%E6%96%B9%E6%B3%95)
@@ -176,9 +185,11 @@
 
 ### 参考事例
 - N/A
+
 ### 参加者コメント
 - 名前の意味がよく分からない
 - 小学生低学年よりも高学年、中高生になったら欲しがりそう
+
 ### 参考リンク
 - N/A
 
