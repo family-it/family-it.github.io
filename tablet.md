@@ -2,7 +2,7 @@
 
 - 日時：2017/05/13(土) 10:00 〜 11:30
 - 場所：株式会社サーバーワークス　福岡オフィス
-- 募集URL: https://family-it.connpass.com/event/54750/
+- 募集URL: [子供に与えるタブレットをどうするか考える会 - connpass](https://family-it.connpass.com/event/54750/)
 
 # 目的
 子供に与えるタブレットの管理について親同士で状況共有をします。
@@ -28,7 +28,7 @@
 
 ## Apple iPad
 ### 値段
-- https://www.apple.com/jp/ipad/
+- [iPad - Apple（日本） ](https://www.apple.com/jp/ipad/)
 - 最低でも4万ほどする。高い
 - 親の端末もApple製品なら統合UIや認証情報なども分散しないのでよいかもしれない
 
@@ -62,7 +62,7 @@
 
 ## Amazon Kindle Fire
 ### 値段
-- https://www.amazon.co.jp/dp/B00Y3TMKKM
+- [Fireタブレット - Amazonのエンターテインメントを最大限に楽しむ](https://www.amazon.co.jp/dp/B00Y3TMKKM)
 - スペックを考えなければクーポンを使えば4000円ほどで買える（2017/5/14時点）。
 
 ### アカウント
@@ -81,12 +81,12 @@
   - Amazonアカウントを子供のメールアドレスで取得し、端末に機能制限をして付与している。
     - [Amazon.co.jp ヘルプ: 機能制限](https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=201241760)
   - Amazonアカウントはクレジットカードを登録しなくても作成は可能。支払いは親のアカウント --> 子供のアカウントへメールアドレス指定にてAmazonクレジット
-    - [Amazonギフト券 | Amazon.co.jp](https://www.amazon.co.jp/%E3%82%AE%E3%83%95%E3%83%88%E5%88%B8/b?ie=UTF8&node=2351652051)
+    - [Amazonギフト券 Amazon.co.jp](https://www.amazon.co.jp/%E3%82%AE%E3%83%95%E3%83%88%E5%88%B8/b?ie=UTF8&node=2351652051)
 
 
 ## Google Androidベースの端末
 ### 値段
-- https://www.android.com/intl/ja_jp/tablets/
+- [Android タブレット 仕事でも遊びでも](https://www.android.com/intl/ja_jp/tablets/)
 - キャリアが積極的に販売をしているので4〜8万程度だが分割支払いや二年縛りで割引が効くようになっている。
 - SIMフリーのタブレットであれば2万程度で購入可能（Huaweiなどの基本はスマホを作っている会社が出しており、スマホよりちょっとだけ大きいという感じである）
 
@@ -105,20 +105,20 @@
 
 ## Windows tablet
 ### 値段
-- https://www.microsoft.com/ja-jp/windows/view-all
+- [最新の Windows PC、ノート PC、タブレット、デスクトップ PC、オールインワン PC、およびスマートフォンの購入 | Microsoft Windows 10](https://www.microsoft.com/ja-jp/windows/view-all)
 - [【2017年版】オススメのSIMフリーwindowsタブレット（LTE対応）まとめ](https://www.simfree-life.jp/%e3%80%902016%e5%b9%b4%e7%89%88%e3%80%91%e3%82%aa%e3%82%b9%e3%82%b9%e3%83%a1%e3%81%aesim%e3%83%95%e3%83%aa%e3%83%bcwindows%e3%82%bf%e3%83%96%e3%83%ac%e3%83%83%e3%83%88%ef%bc%88lte%e5%af%be%e5%bf%9c/)
 - ノートブックの延長線上にあるように思われ、基本高い。15万程度する。小学生というより、高校生、大学生に宿題などをさせるために与えたい機能と値段である
 
 ### アカウント
 - MSアカウントが基本であるが、別のサービスとの連携も可能
   - ADやSkyMenuさんなどの製品が人気である
-    - https://www.skymenu.net/
+    - [学習活動ソフトウェア SKYMENU Pro ](https://www.skymenu.net/)
   - 教育関連での認証情報はSkyMenuさんの認証基盤を使うのが人気らしい
 
 ### アプリケーション
 - Minecraftある
 - アプリは結構たくさんある
-  -　https://www.microsoft.com/ja-jp/store/apps/windows?icid=CNavWindowsApps
+  - [Windows アプリ - Microsoft ストア](https://www.microsoft.com/ja-jp/store/apps/windows?icid=CNavWindowsApps)
 
 ### 参考事例
 - N/A
@@ -132,18 +132,18 @@
 
 ## 任天堂 3DS
 ### 値段
-- https://www.nintendo.co.jp/hardware/new3ds/index.html
+- [Newニンテンドー3DS Nintendo](https://www.nintendo.co.jp/hardware/new3ds/index.html)
 - ラインアップにもよるが大体1万5千程度
   - もう任天堂DSは生産終了をしていた（現在は3DS, 2DSなどの名称）
 ### アカウント
 - ニンテンドーネットワークIDを取得すればゲームのダウンロードが可能
-  - [ニンテンドーネットワークIDの登録方法（ニンテンドー3DS）｜サポート情報｜Nintendo](https://www.nintendo.co.jp/support/nintendo_network/account/3ds.html)
+  - [ニンテンドーネットワークIDの登録方法（ニンテンドー3DS）｜サポート情報 Nintendo](https://www.nintendo.co.jp/support/nintendo_network/account/3ds.html)
   - 他の3rdサービスで利用することを前提としておらず任天堂のサービス内で閉じられている模様
 
 ### アプリケーション
 - Minecraftある
 - 小学生が遊ぶゲームから、幅広いゲームが多数。逆を返せばゲームがメインでそれ以外のアプリはないかと思われる
-  - https://www.nintendo.co.jp/software/3ds/index.html
+  - [ニンテンドー3DSで遊ぶ Nintendo](https://www.nintendo.co.jp/software/3ds/index.html)
 - ダウンロードも可能
 
 ### 参考事例
@@ -156,23 +156,23 @@
 - 任天堂が全部コントロールしている為、開かれた市場による不安が少ない
 
 ### 参考リンク
-- [任天堂から保護者のみなさまへ、大切なお願いです。｜Nintendo](https://www.nintendo.co.jp/parents/3ds-wiiu/index.html)
-- [ニンテンドーキッズスペース | ARカードからキャラクターが飛び出すのはどうして？ | 任天堂](https://www.nintendo.co.jp/kids/160713/ar/)
+- [任天堂から保護者のみなさまへ、大切なお願いです。 Nintendo](https://www.nintendo.co.jp/parents/3ds-wiiu/index.html)
+- [ニンテンドーキッズスペース  ARカードからキャラクターが飛び出すのはどうして？ | 任天堂](https://www.nintendo.co.jp/kids/160713/ar/)
 
 
 ## SONY PlayStation Vita
 ### 値段
-- http://www.jp.playstation.com/psvita/
+- [PlayStation Vita  プレイステーション](http://www.jp.playstation.com/psvita/) 
 - 買う場所によるが大体2万程
 ### アカウント
 - Sony Entertainment Network（SEN）アカウント
-  - [SEN アカウントの種類と作成方法 | PlayStation.com](https://support.jp.playstation.com/app/answers/detail/a_id/473/~/sen-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AE%E7%A8%AE%E9%A1%9E%E3%81%A8%E4%BD%9C%E6%88%90%E6%96%B9%E6%B3%95)
+  - [SEN アカウントの種類と作成方法  PlayStation.com](https://support.jp.playstation.com/app/answers/detail/a_id/473/~/sen-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AE%E7%A8%AE%E9%A1%9E%E3%81%A8%E4%BD%9C%E6%88%90%E6%96%B9%E6%B3%95)
 - 18歳以上しかマスターアカウントの開設が出来ないが、PS Vitaであれば、17歳以下でもサブアカウントという形で開設が可能
 
 ### アプリケーション
 - Minecraftある
 - ゲームは中高生向けの内容が多い様に思われる
-- [公式PlayStation®Store 日本 | PlayStationゲーム、PS4、PS3、PSVitaのゲーム](https://store.playstation.com/#!/ja-jp/home/main)
+- [公式PlayStation®Store 日本  PlayStationゲーム、PS4、PS3、PSVitaのゲーム](https://store.playstation.com/#!/ja-jp/home/main)
 
 ### 参考事例
 - N/A
@@ -198,14 +198,14 @@
 
 
 # 参考リンク
-- [意外と知らない"学校での1人1台のタブレット活用" - 教育ウォッチ | 学びの場.com ](https://www.manabinoba.com/edu_watch/23159.html)
+- [意外と知らない"学校での1人1台のタブレット活用" - 教育ウォッチ 学びの場.com ](https://www.manabinoba.com/edu_watch/23159.html)
 - [「AI」は声でセクハラを助長する？ 「女性秘書はロボットだから」に潜む人間の危険性 | FUZE](https://www.fuze.dj/2017/03/ai_sexual_harassment.html)
 
 # イベント後の福岡観光
-- [紅葉八幡宮 | 福岡県福岡市早良区の西新の紅葉で有名な紅葉八幡宮](http://momijihachimangu.or.jp/)
+- [紅葉八幡宮  福岡県福岡市早良区の西新の紅葉で有名な紅葉八幡宮](http://momijihachimangu.or.jp/)
   - [遷座350周年記念 御朱印AR](http://momijihachimangu.or.jp/goshuinar)
   - 宮司さんが作ったとのこと
-- [博多の総鎮守お櫛田さん 櫛田神社 | 博多の魅力](http://hakatanomiryoku.com/spot/%E6%AB%9B%E7%94%B0%E7%A5%9E%E7%A4%BE)
+- [博多の総鎮守お櫛田さん 櫛田神社 博多の魅力](http://hakatanomiryoku.com/spot/%E6%AB%9B%E7%94%B0%E7%A5%9E%E7%A4%BE)
 - [もち吉 あられ・おせんべい・おかき・和菓子のお店](http://www.mochikichi.co.jp/shop/detail.php?sto_id=124)  
-- [レストラン & カフェ | JR博多シティ/アミュプラザ博多公式サイト](https://www.jrhakatacity.com/gourmet/)
-- [つばめの杜ひろば | JR博多シティ/アミュプラザ博多公式サイト](https://www.jrhakatacity.com/tsubame/)
+- [レストラン & カフェ JR博多シティ/アミュプラザ博多公式サイト](https://www.jrhakatacity.com/gourmet/)
+- [つばめの杜ひろば JR博多シティ/アミュプラザ博多公式サイト](https://www.jrhakatacity.com/tsubame/)
